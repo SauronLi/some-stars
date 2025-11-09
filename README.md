@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [Kotlin](#kotlin)
@@ -17,7 +18,6 @@
 *   [Java](#java)
 *   [C#](#c)
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [PHP](#php)
 *   [Shell](#shell)
@@ -33,6 +33,104 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Makefile](#makefile)
 *   [Lua](#lua)
+
+## miscellaneous
+
+*   [cailin88/AVB-Verification-Disabling-Module](https://github.com/cailin88/AVB-Verification-Disabling-Module) - 该方案为分离式AVB禁用与救砖模块设计改进方案，核心围绕兼容性、安全性、稳定性、易用性优化。   AVB禁用模块新增设备适配层（含多设备vbmeta路径配置与兼容性检测脚本），可动态适配不同机型，支持Android 14及动态分区设备，安装时弹窗提示安全风险。救砖模块新增应急层（离线恢复包、Fastboot指令模板）与状态反馈层，优化启动检测（30秒超时、多条件判定），3次启动失败尝试安全模式，5次则恢复vbmeta，还简化手动恢复指令。   组合安装包新增校验层（文件完整性与设备兼容性校验）和文档层，支持增量更新与设备白名单匹配。同时明确授权声明，所有者“好无聊”授权使用者相关权限，禁止商业售卖、二次授权等违规行为。
+
+*   [imacte/YukiCtrl](https://github.com/imacte/YukiCtrl) -
+
+*   [rcmiku/Kanade](https://github.com/rcmiku/Kanade) - 第三方网易云音乐客户端 | 仅供学习交流使用
+
+*   [kejichangqing/QingMusic](https://github.com/kejichangqing/QingMusic) - 青听音乐-一款免费无广告的本地音乐播放器。
+
+*   [nyehueh/shortx-Fluid\_Cloud](https://github.com/nyehueh/shortx-Fluid_Cloud) -
+
+*   [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
+
+*   [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and forum of FeedMe
+
+*   [gstory0404/Cinetry](https://github.com/gstory0404/Cinetry) - Cinetry播放器，Jellyfin、Emby、CMS、IPTV、Webdav、Alist、Openlist数据导入，服务器一键切换，多服务器数据聚合搜索，支持Andorid、iOS、Windows、macOS、Linux、TV
+
+*   [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.
+
+*   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
+
+*   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
+
+*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
+
+*   [bug-bit/fckvip](https://github.com/bug-bit/fckvip) - 一个解锁部分软件会员与拓展功能增强的模块
+
+*   [1688aa/KeePass-Plugins-Instructions-for-use](https://github.com/1688aa/KeePass-Plugins-Instructions-for-use) - KeePass插件使用说明
+
+*   [CATinTIN/vercel-revproxy](https://github.com/CATinTIN/vercel-revproxy) - vercel反代
+
+*   [Mods-Center/HyperOS-Launcher](https://github.com/Mods-Center/HyperOS-Launcher) - Enhanced HyperOS Launcher with improved blur effects, widget support, stacked recent, dock background, and customization options for a refined user experience. Optimized for smoother performance and additional features on all devices.
+
+*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
+
+*   [MemDeco-WG/RootModuleMaker](https://github.com/MemDeco-WG/RootModuleMaker) - RMM Python+rust 混合 项目。Magisk/Apatch/Kernelsu模块开发，构建，测试，发布全流程 。CLI 程序
+
+*   [bachnxuan/android12-5.10-lts](https://github.com/bachnxuan/android12-5.10-lts) - ESK Kernel
+
+*   [a1393323447/aseprite-builder](https://github.com/a1393323447/aseprite-builder) - Build Aseprite using Github action(Window, MacOS, Ubuntu) in 10 minutes.
+
+*   [bovindev/google-translate-host](https://github.com/bovindev/google-translate-host) - Fix Google full text translation by modifying the Host method/通过修改Host的方法，修复谷歌全文翻译
+
+*   [ivon852/awesome-foss-android-apps](https://github.com/ivon852/awesome-foss-android-apps) - Awesome FOSS Android Apps list (Traditional Chinese)
+
+*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
+
+*   [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表
+
+*   [femkerr/dieghe](https://github.com/femkerr/dieghe) - 潮語 潮汕話 潮州話RIME輸入方案
+
+*   [Yxiguan/OpenList\_123](https://github.com/Yxiguan/OpenList_123) - 实现123网盘无限制下载
+
+*   [hudiemon/cloud189](https://github.com/hudiemon/cloud189) - 🔒 天翼云盘-签到、抽奖
+
+*   [yangbyyoung/OfflineModule](https://github.com/yangbyyoung/OfflineModule) -
+
+*   [clown-coding/vpn](https://github.com/clown-coding/vpn) - 快速搭建一个自己的VPN翻墙科学上网
+
+*   [Mods-Center/Package-Installer](https://github.com/Mods-Center/Package-Installer) - Modern package installer featuring enhanced UI, rich app info, Monet theme support, and update capabilities. Supports AOSP, MIUI, HyperOS, OxygenOS, ColorOS, and more—without requiring Unknown Sources permission or MIUI account login.
+
+*   [NextPlayerCloud/CloudPlex](https://github.com/NextPlayerCloud/CloudPlex) - Rclone Alist for Android
+
+*   [Zhou-Li-Bin/Tvbox-QingNing](https://github.com/Zhou-Li-Bin/Tvbox-QingNing) - 永久免费更新/搜集分享/TVBox接口和直播源/影视仓接口和直播源/直播接口/电视接口含配置接口线路/单仓和多仓/优质的数据源/配置线路/影视源/TV源/tv线路/电视直播软件分享/电视盒子软件分享/国外线路/影视软件/IPTV
+
+*   [Memory2314/Memory-SimpleHook](https://github.com/Memory2314/Memory-SimpleHook) - 一个不定期更新的SimpleHook配置仓库
+
+*   [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
+
+*   [oureveryday/PikPak\_By\_Shimily\_Keygen](https://github.com/oureveryday/PikPak_By_Shimily_Keygen) - Keygen for PikPak\_By\_Shimily
+
+*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+
+*   [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
+
+*   [scovis/TVBox](https://github.com/scovis/TVBox) - 一个开源无广告的TVBox源，一个仓库全搞定。
+
+*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+
+*   [TCatCloud/IPTV](https://github.com/TCatCloud/IPTV) -
+
+*   [GeQ1an/Rules](https://github.com/GeQ1an/Rules) - Stick Rules -- Quantumult X / Loon / Clash Rules \ Quantumult back to CN Rules
+
+*   [vhvg/Rules-1](https://github.com/vhvg/Rules-1) -  Clash / Loon / QuantumultX / Shadowrocket / Surge去广告规则
+
+*   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
+
+*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
+
+*   [kde-yyds/termux-x11-plasma-installation-guide](https://github.com/kde-yyds/termux-x11-plasma-installation-guide) - termux-x11运行KDE Plasma教程
+
+*   [celetor/tvbox-build](https://github.com/celetor/tvbox-build) - tvbox打包apk
+
+*   [CatVodTV/YuanHsingfreed](https://github.com/CatVodTV/YuanHsingfreed) -
+
+*   [asdjkl6/tv](https://github.com/asdjkl6/tv) - 复刻和转仓说明出处，请勿商用
 
 ## JavaScript
 
@@ -126,8 +224,6 @@
 
 *   [yw88075/tvbox](https://github.com/yw88075/tvbox) - 借用的都是大佬的本地接口和在线接口。
 
-*   [hjdhnx/dr\_py](https://github.com/hjdhnx/dr_py) - A webServer convert web and x5 movie sites to cms api data
-
 ## Rust
 
 *   [ldoubil/astral](https://github.com/ldoubil/astral) - 去中心化组网工具
@@ -135,8 +231,6 @@
 *   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 
 *   [Dominux/Pentaract](https://github.com/Dominux/Pentaract) - Unlimited file cloud storage based on using Telegram API
-
-*   [MemDeco-WG/RootModuleMaker](https://github.com/MemDeco-WG/RootModuleMaker) - RMM Python+rust 混合 项目。Magisk/Apatch/Kernelsu模块开发，构建，测试，发布全流程 。CLI 程序
 
 *   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 
@@ -178,7 +272,7 @@
 
 *   [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) - Kernel-based Android Root Solution & KPM
 
-*   [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
+*   [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
 
 *   [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
 
@@ -501,100 +595,6 @@
 *   [hl128k/tvbox](https://github.com/hl128k/tvbox) - 一个域名替换工具
 
 *   [UndCover/PyramidStore](https://github.com/UndCover/PyramidStore) -
-
-## miscellaneous
-
-*   [imacte/YukiCtrl](https://github.com/imacte/YukiCtrl) -
-
-*   [rcmiku/Kanade](https://github.com/rcmiku/Kanade) - 第三方网易云音乐客户端 | 仅供学习交流使用
-
-*   [kejichangqing/QingMusic](https://github.com/kejichangqing/QingMusic) - 青听音乐-一款免费无广告的本地音乐播放器。
-
-*   [nyehueh/shortx-Fluid\_Cloud](https://github.com/nyehueh/shortx-Fluid_Cloud) -
-
-*   [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
-
-*   [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and forum of FeedMe
-
-*   [gstory0404/Cinetry](https://github.com/gstory0404/Cinetry) - Cinetry播放器，Jellyfin、Emby、CMS、IPTV、Webdav、Alist、Openlist数据导入，服务器一键切换，多服务器数据聚合搜索，支持Andorid、iOS、Windows、macOS、Linux、TV
-
-*   [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.
-
-*   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
-
-*   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
-
-*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
-
-*   [bug-bit/fckvip](https://github.com/bug-bit/fckvip) - 一个解锁部分软件会员与拓展功能增强的模块
-
-*   [1688aa/KeePass-Plugins-Instructions-for-use](https://github.com/1688aa/KeePass-Plugins-Instructions-for-use) - KeePass插件使用说明
-
-*   [CATinTIN/vercel-revproxy](https://github.com/CATinTIN/vercel-revproxy) - vercel反代
-
-*   [Mods-Center/HyperOS-Launcher](https://github.com/Mods-Center/HyperOS-Launcher) - Enhanced HyperOS Launcher with improved blur effects, widget support, stacked recent, dock background, and customization options for a refined user experience. Optimized for smoother performance and additional features on all devices.
-
-*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
-
-*   [bachnxuan/android12-5.10-lts](https://github.com/bachnxuan/android12-5.10-lts) - ESK Kernel
-
-*   [a1393323447/aseprite-builder](https://github.com/a1393323447/aseprite-builder) - Build Aseprite using Github action(Window, MacOS, Ubuntu) in 10 minutes.
-
-*   [bovindev/google-translate-host](https://github.com/bovindev/google-translate-host) - Fix Google full text translation by modifying the Host method/通过修改Host的方法，修复谷歌全文翻译
-
-*   [ivon852/awesome-foss-android-apps](https://github.com/ivon852/awesome-foss-android-apps) - Awesome FOSS Android Apps list (Traditional Chinese)
-
-*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
-
-*   [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表
-
-*   [femkerr/dieghe](https://github.com/femkerr/dieghe) - 潮語 潮汕話 潮州話RIME輸入方案
-
-*   [Yxiguan/OpenList\_123](https://github.com/Yxiguan/OpenList_123) - 实现123网盘无限制下载
-
-*   [hudiemon/cloud189](https://github.com/hudiemon/cloud189) - 🔒 天翼云盘-签到、抽奖
-
-*   [yangbyyoung/OfflineModule](https://github.com/yangbyyoung/OfflineModule) -
-
-*   [clown-coding/vpn](https://github.com/clown-coding/vpn) - 快速搭建一个自己的VPN翻墙科学上网
-
-*   [Mods-Center/Package-Installer](https://github.com/Mods-Center/Package-Installer) - Modern package installer featuring enhanced UI, rich app info, Monet theme support, and update capabilities. Supports AOSP, MIUI, HyperOS, OxygenOS, ColorOS, and more—without requiring Unknown Sources permission or MIUI account login.
-
-*   [NextPlayerCloud/CloudPlex](https://github.com/NextPlayerCloud/CloudPlex) - Rclone Alist for Android
-
-*   [Zhou-Li-Bin/Tvbox-QingNing](https://github.com/Zhou-Li-Bin/Tvbox-QingNing) - 永久免费更新/搜集分享/TVBox接口和直播源/影视仓接口和直播源/直播接口/电视接口含配置接口线路/单仓和多仓/优质的数据源/配置线路/影视源/TV源/tv线路/电视直播软件分享/电视盒子软件分享/国外线路/影视软件/IPTV
-
-*   [Memory2314/Memory-SimpleHook](https://github.com/Memory2314/Memory-SimpleHook) - 一个不定期更新的SimpleHook配置仓库
-
-*   [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
-
-*   [oureveryday/PikPak\_By\_Shimily\_Keygen](https://github.com/oureveryday/PikPak_By_Shimily_Keygen) - Keygen for PikPak\_By\_Shimily
-
-*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
-
-*   [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
-
-*   [scovis/TVBox](https://github.com/scovis/TVBox) - 一个开源无广告的TVBox源，一个仓库全搞定。
-
-*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
-
-*   [TCatCloud/IPTV](https://github.com/TCatCloud/IPTV) -
-
-*   [GeQ1an/Rules](https://github.com/GeQ1an/Rules) - Stick Rules -- Quantumult X / Loon / Clash Rules \ Quantumult back to CN Rules
-
-*   [vhvg/Rules-1](https://github.com/vhvg/Rules-1) -  Clash / Loon / QuantumultX / Shadowrocket / Surge去广告规则
-
-*   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
-
-*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
-
-*   [kde-yyds/termux-x11-plasma-installation-guide](https://github.com/kde-yyds/termux-x11-plasma-installation-guide) - termux-x11运行KDE Plasma教程
-
-*   [celetor/tvbox-build](https://github.com/celetor/tvbox-build) - tvbox打包apk
-
-*   [CatVodTV/YuanHsingfreed](https://github.com/CatVodTV/YuanHsingfreed) -
-
-*   [asdjkl6/tv](https://github.com/asdjkl6/tv) - 复刻和转仓说明出处，请勿商用
 
 ## Vue
 
