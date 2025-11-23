@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
+*   [Java](#java)
 *   [PowerShell](#powershell)
 *   [Rust](#rust)
 *   [Kotlin](#kotlin)
-*   [Java](#java)
 *   [C#](#c)
 *   [Python](#python)
 *   [Vue](#vue)
@@ -32,9 +32,102 @@
 *   [EJS](#ejs)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Makefile](#makefile)
-*   [Lua](#lua)
+
+## JavaScript
+
+*   [huliyoudiangou/TG\_Chat\_Bot-D1](https://github.com/huliyoudiangou/TG_Chat_Bot-D1) - 这是一个基于 Cloudflare Worker 和 D1 数据库 构建的高性能 Telegram 双向机器人。它不仅能将用户的私聊消息转发到管理员群组的话题中，还内置了完整的 CRM（客户关系管理）、防骚扰系统 和 自动化工作流。
+
+*   [ThomasBy2025/hikerview](https://github.com/ThomasBy2025/hikerview) - 海阔视界小程序
+
+*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+*   [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
+
+*   [asxez/MusicBox](https://github.com/asxez/MusicBox) - 一款高颜值、插件化的本地音乐播放器，支持Windows、MacOS、Linux系统
+
+*   [yuanwangokk-1/HiKer](https://github.com/yuanwangokk-1/HiKer) -
+
+*   [BrowserWorks/waterfox-android](https://github.com/BrowserWorks/waterfox-android) - Waterfox for Android
+
+*   [Huibq/keep-alive](https://github.com/Huibq/keep-alive) - 洛雪音乐音源、MusicFree音源、落雪音乐音源
+
+*   [KeyRotate/LibreTV-App](https://github.com/KeyRotate/LibreTV-App) - LibreTV 跨平台客户端（Android, Windows, Linux, MacOS等），直装免部署
+
+*   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
+
+*   [Cinvin/myuserscripts](https://github.com/Cinvin/myuserscripts) - 网易云音乐油猴脚本:歌曲下载、转存云盘、云盘歌曲快传、云盘匹配纠正...
+
+*   [52Lxcloud/TGChatBot](https://github.com/52Lxcloud/TGChatBot) - 一个基于Cloudflare的Telegram消息转发分组对话机器人
+
+*   [hjdhnx/drpy-node](https://github.com/hjdhnx/drpy-node) - nodejs作为服务端的drpy实现。全面升级异步写法。配合drplayer实现全平台浏览器观影
+
+*   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
+
+*   [PizazzGY/TVBox\_warehouse](https://github.com/PizazzGY/TVBox_warehouse) -
+
+*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
+
+*   [TyrantG/hikerViewRules](https://github.com/TyrantG/hikerViewRules) - 海阔视界规则源码集合
+
+*   [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
+
+*   [Alleyway-boop/AutoX](https://github.com/Alleyway-boop/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+
+*   [bjc5233/autojs](https://github.com/bjc5233/autojs) - android autojs签到脚本【百度地图签到、大众点评签到、叮咚买菜签到、飞猪签到里程、京东签到京豆、京东金融签到钢镚、联想签到延保、拼多多签到、上海移动和你签到、什么值得买签到、苏宁易购签到、淘宝签到淘金币、腾讯wifi管家签到、微信读书(TODO)、小米商城抢购web(TODO)、新浪微博早起打卡(TODO)、云闪付签到积分、支付宝签到积分、支付宝每日花呗红包、支付宝体育服务早期打卡(TODO)】
+
+*   [fish2018/lib](https://github.com/fish2018/lib) -
+
+*   [abc99571875/tvboxTW](https://github.com/abc99571875/tvboxTW) -
+
+*   [qirenzhidao/tvbox18](https://github.com/qirenzhidao/tvbox18) - tvbox 影视tv 宝盒 接口
+
+*   [jadehh/TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
+
+*   [YYDS678/uzVideo-extensions](https://github.com/YYDS678/uzVideo-extensions) - uz影视-扩展仓库
+
+*   [qist/tvbox](https://github.com/qist/tvbox) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+
+*   [n3rddd/N3RD](https://github.com/n3rddd/N3RD) - CTV
+
+*   [hjdhnx/hiker](https://github.com/hjdhnx/hiker) - 海阔视界静态资源
+
+*   [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
+
+*   [FuShengPing/android-qinglong](https://github.com/FuShengPing/android-qinglong) - 基于青龙面板接口开发的App，支持面板大部分原生功能，同时提供拓展模块，帮助用户快捷管理。
+
+*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
+
+*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
+*   [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) - Systemless hosts for APatch / KernelSU / Magisk
+
+*   [TheSmallHanCat/Better\_Alist](https://github.com/TheSmallHanCat/Better_Alist) - Alist页面美化-让你的文件页面更加丝滑美观
+
+*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
+
+*   [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
+
+*   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
+
+*   [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic) - 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
+
+*   [liu673cn/box](https://github.com/liu673cn/box) - 自用，勿宣传。
+
+*   [justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - ⚡️ 一个 Chrome 插件：将 Google CDN 替换为国内的。
+
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ## miscellaneous
+
+*   [zaidielykelee/Magnet\_player](https://github.com/zaidielykelee/Magnet_player) - 磁力播放 、磁力搜索
+
+*   [supzza/clianpro](https://github.com/supzza/clianpro) - 超链PRO 开箱即用的网盘下载/解析解决方案 支持直链解析、不限速下载、批量下载、Aria2加速等功能。完全免费，无需登录，一键获取网盘直链，解决下载限速问题。
 
 *   [andrewginns/chromium-browser-snapshots-AndroidDesktop\_arm64](https://github.com/andrewginns/chromium-browser-snapshots-AndroidDesktop_arm64) - Official Chromium browser for Android that supports extensions
 
@@ -132,97 +225,9 @@
 
 *   [CatVodTV/YuanHsingfreed](https://github.com/CatVodTV/YuanHsingfreed) -
 
-*   [asdjkl6/tv](https://github.com/asdjkl6/tv) - 复刻和转仓说明出处，请勿商用
-
-## JavaScript
-
-*   [ThomasBy2025/hikerview](https://github.com/ThomasBy2025/hikerview) - 海阔视界小程序
-
-*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-
-*   [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
-
-*   [asxez/MusicBox](https://github.com/asxez/MusicBox) - 一款高颜值、插件化的本地音乐播放器，支持Windows、MacOS、Linux系统
-
-*   [yuanwangokk-1/HiKer](https://github.com/yuanwangokk-1/HiKer) -
-
-*   [BrowserWorks/waterfox-android](https://github.com/BrowserWorks/waterfox-android) - Waterfox for Android
-
-*   [Huibq/keep-alive](https://github.com/Huibq/keep-alive) - 洛雪音乐音源、MusicFree音源、落雪音乐音源
-
-*   [KeyRotate/LibreTV-App](https://github.com/KeyRotate/LibreTV-App) - LibreTV 跨平台客户端（Android, Windows, Linux, MacOS等），直装免部署
-
-*   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
-
-*   [Cinvin/myuserscripts](https://github.com/Cinvin/myuserscripts) - 网易云音乐油猴脚本:歌曲下载、转存云盘、云盘歌曲快传、云盘匹配纠正...
-
-*   [52Lxcloud/TGChatBot](https://github.com/52Lxcloud/TGChatBot) - 一个基于Cloudflare的Telegram消息转发分组对话机器人
-
-*   [hjdhnx/drpy-node](https://github.com/hjdhnx/drpy-node) - nodejs作为服务端的drpy实现。全面升级异步写法。配合drplayer实现全平台浏览器观影
-
-*   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
-
-*   [PizazzGY/TVBox\_warehouse](https://github.com/PizazzGY/TVBox_warehouse) -
-
-*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
-
-*   [TyrantG/hikerViewRules](https://github.com/TyrantG/hikerViewRules) - 海阔视界规则源码集合
-
-*   [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
-
-*   [Alleyway-boop/AutoX](https://github.com/Alleyway-boop/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-
-*   [bjc5233/autojs](https://github.com/bjc5233/autojs) - android autojs签到脚本【百度地图签到、大众点评签到、叮咚买菜签到、飞猪签到里程、京东签到京豆、京东金融签到钢镚、联想签到延保、拼多多签到、上海移动和你签到、什么值得买签到、苏宁易购签到、淘宝签到淘金币、腾讯wifi管家签到、微信读书(TODO)、小米商城抢购web(TODO)、新浪微博早起打卡(TODO)、云闪付签到积分、支付宝签到积分、支付宝每日花呗红包、支付宝体育服务早期打卡(TODO)】
-
-*   [fish2018/lib](https://github.com/fish2018/lib) -
-
-*   [abc99571875/tvboxTW](https://github.com/abc99571875/tvboxTW) -
-
-*   [qirenzhidao/tvbox18](https://github.com/qirenzhidao/tvbox18) - tvbox 影视tv 宝盒 接口
-
-*   [jadehh/TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
-
-*   [YYDS678/uzVideo-extensions](https://github.com/YYDS678/uzVideo-extensions) - uz影视-扩展仓库
-
-*   [qist/tvbox](https://github.com/qist/tvbox) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
-
-*   [n3rddd/N3RD](https://github.com/n3rddd/N3RD) - CTV
-
-*   [hjdhnx/hiker](https://github.com/hjdhnx/hiker) - 海阔视界静态资源
-
-*   [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
-
-*   [FuShengPing/android-qinglong](https://github.com/FuShengPing/android-qinglong) - 基于青龙面板接口开发的App，支持面板大部分原生功能，同时提供拓展模块，帮助用户快捷管理。
-
-*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
-
-*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
-
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
-*   [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) - Systemless hosts for APatch / KernelSU / Magisk
-
-*   [TheSmallHanCat/Better\_Alist](https://github.com/TheSmallHanCat/Better_Alist) - Alist页面美化-让你的文件页面更加丝滑美观
-
-*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
-
-*   [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
-
-*   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
-
-*   [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic) - 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
-
-*   [liu673cn/box](https://github.com/liu673cn/box) - 自用，勿宣传。
-
-*   [justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - ⚡️ 一个 Chrome 插件：将 Google CDN 替换为国内的。
-
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
 ## TypeScript
+
+*   [wood3n/biu](https://github.com/wood3n/biu) - Bilibili音乐播放器
 
 *   [ximu3/vnite](https://github.com/ximu3/vnite) - A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports.
 
@@ -286,7 +291,79 @@
 
 *   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
 
-*   [Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值.
+## Java
+
+*   [Time-Machine-Lab/Mosaic](https://github.com/Time-Machine-Lab/Mosaic) - 🎮 把SpringBoot后端当游戏玩！ 🔥 像MC的MOD开发者一样"制作模组"，微服务架构想搭就搭 🏗️，插件MOD想装就装 📦，系统功能想扩就扩 🔧！⚡ 🚀 热部署黑科技 - 凌晨3点生产环境爆炸？💣 丢个jar包进去 📂，动态加载新MOD ⚙️，零停机热更新 🔄，秒修复 ⚡，老板都不知道出过事！😎 🔌 MOD化微服务生态 - Plugin Market一键安装 🛒，Docker容器化部署 🐳，Kubernetes集群管理 ☸️，MOD版本随意切换 🔀，故障秒级回滚 ⏪。 像安装MC模组一样简单！🎲 从单体应用到分布式系统 🌐，让后端开发变成MOD创作 🎨！彻底告别停机部署的石器时代！🏺➡️🚀
+
+*   [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
+
+*   [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+
+*   [xlzhen-940218/ifavorites](https://github.com/xlzhen-940218/ifavorites) - favorite all links
+
+*   [mlabalabala/box](https://github.com/mlabalabala/box) - TVBox的一个可以处理多源的版本，支持安卓4.4
+
+*   [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
+
+*   [bpellin/keepassdroid](https://github.com/bpellin/keepassdroid) - KeePass implementation for android
+
+*   [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
+
+*   [EduardoA3677/termux-monet](https://github.com/EduardoA3677/termux-monet) - 🔥 Termux Monet v2.0 - a terminal emulator application for Android, with experimental features... 𝙱𝚢: ⸸𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7⸸
+
+*   [JingMatrix/termux-monet](https://github.com/JingMatrix/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
+
+*   [HiveGamesOSS/Chunker](https://github.com/HiveGamesOSS/Chunker) - Convert Minecraft worlds between Java Edition and Bedrock Edition
+
+*   [Xposed-Modules-Repo/com.my.televip](https://github.com/Xposed-Modules-Repo/com.my.televip) - TeleVip
+
+*   [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
+
+*   [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
+
+*   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+
+*   [takagen99/Box](https://github.com/takagen99/Box) - Experimental
+
+*   [HChenX/AppRetention](https://github.com/HChenX/AppRetention) - Hook 系统 kill 逻辑来实现后台保活 | Hook system kill logic to implement background keep alive
+
+*   [araafroyall/Cleaner-Royall](https://github.com/araafroyall/Cleaner-Royall) - 🚀 𝗔 𝗠𝗼𝘀𝘁 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗖𝗹𝗲𝗮𝗻𝗲𝗿 𝗙𝗼𝗿 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 \[Root]
+
+*   [weixiansen574/HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
+
+*   [Freezer-Team/Cirno](https://github.com/Freezer-Team/Cirno) - New android tombstone module
+
+*   [luoxingran/dolby\_beta](https://github.com/luoxingran/dolby_beta) - 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro\_Xposed项目将会停止维护，让我们欢送这位老朋友！
+
+*   [Katana-Official/Meta](https://github.com/Katana-Official/Meta) - Meta Platform demo source code
+
+*   [mywalkb/LSPosed\_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
+
+*   [LGH1996/TapClick](https://github.com/LGH1996/TapClick) - Android自动化点击工具
+
+*   [Katana-Official/SPatch-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
+
+*   [0bbedCode/XPL-EX](https://github.com/0bbedCode/XPL-EX) - Really simple to use privacy manager for Android 6.0 Marshmallow and later
+
+*   [dragonwell-project/dragonwell8](https://github.com/dragonwell-project/dragonwell8) - Alibaba Dragonwell8 JDK
+
+*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+
+*   [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
+
+*   [BiglySoftware/BiglyBT-Android](https://github.com/BiglySoftware/BiglyBT-Android) - BiglyBT for Android, torrent client and remote control app
+
+*   [eritpchy/aliyundrive-webdav](https://github.com/eritpchy/aliyundrive-webdav) - 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现，支持安卓、Linux、树莓派、Docker、Windows、macOS部署， 并附带JAVA SDK支持二次开发
+
+*   [SuperMonster003/AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
+
+*   [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) -
+
+*   [MinaMichita/AntiAntiDefraud](https://github.com/MinaMichita/AntiAntiDefraud) - Stop uploading my installed app list! Miui!
+
+*   [guojiucheng/BBox](https://github.com/guojiucheng/BBox) - TVBox 简易修改 多源版本
+
+*   [XiaoRanLiu3119/TVBoxOS-Mobile](https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile) - TVBox手机版
 
 ## PowerShell
 
@@ -332,7 +409,7 @@
 
 *   [shrimqy/Sefirah-Android](https://github.com/shrimqy/Sefirah-Android) - Phone link / KDE Connect alternative
 
-*   [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
+*   [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 
 *   [KusStar/krude](https://github.com/KusStar/krude) - All in one app and workflow launcher / 小而美的应用启动器。
 
@@ -418,78 +495,6 @@
 
 *   [thalloerupt/stage2](https://github.com/thalloerupt/stage2) - A browser base on Geckoview
 
-## Java
-
-*   [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
-
-*   [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
-
-*   [xlzhen-940218/ifavorites](https://github.com/xlzhen-940218/ifavorites) - favorite all links
-
-*   [mlabalabala/box](https://github.com/mlabalabala/box) - TVBox的一个可以处理多源的版本，支持安卓4.4
-
-*   [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
-
-*   [bpellin/keepassdroid](https://github.com/bpellin/keepassdroid) - KeePass implementation for android
-
-*   [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
-
-*   [EduardoA3677/termux-monet](https://github.com/EduardoA3677/termux-monet) - 🔥 Termux Monet v2.0 - a terminal emulator application for Android, with experimental features... 𝙱𝚢: ⸸𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7⸸
-
-*   [JingMatrix/termux-monet](https://github.com/JingMatrix/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
-
-*   [HiveGamesOSS/Chunker](https://github.com/HiveGamesOSS/Chunker) - Convert Minecraft worlds between Java Edition and Bedrock Edition
-
-*   [Xposed-Modules-Repo/com.my.televip](https://github.com/Xposed-Modules-Repo/com.my.televip) - TeleVip
-
-*   [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
-
-*   [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
-
-*   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
-
-*   [takagen99/Box](https://github.com/takagen99/Box) - Experimental
-
-*   [HChenX/AppRetention](https://github.com/HChenX/AppRetention) - Hook 系统 kill 逻辑来实现后台保活 | Hook system kill logic to implement background keep alive
-
-*   [araafroyall/Cleaner-Royall](https://github.com/araafroyall/Cleaner-Royall) - 🚀 𝗔 𝗠𝗼𝘀𝘁 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗖𝗹𝗲𝗮𝗻𝗲𝗿 𝗙𝗼𝗿 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 \[Root]
-
-*   [weixiansen574/HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
-
-*   [Freezer-Team/Cirno](https://github.com/Freezer-Team/Cirno) - New android tombstone module
-
-*   [luoxingran/dolby\_beta](https://github.com/luoxingran/dolby_beta) - 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro\_Xposed项目将会停止维护，让我们欢送这位老朋友！
-
-*   [Katana-Official/Meta](https://github.com/Katana-Official/Meta) - Meta Platform demo source code
-
-*   [mywalkb/LSPosed\_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
-
-*   [LGH1996/TapClick](https://github.com/LGH1996/TapClick) - Android自动化点击工具
-
-*   [Katana-Official/SPatch-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
-
-*   [0bbedCode/XPL-EX](https://github.com/0bbedCode/XPL-EX) - Really simple to use privacy manager for Android 6.0 Marshmallow and later
-
-*   [dragonwell-project/dragonwell8](https://github.com/dragonwell-project/dragonwell8) - Alibaba Dragonwell8 JDK
-
-*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-
-*   [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
-
-*   [BiglySoftware/BiglyBT-Android](https://github.com/BiglySoftware/BiglyBT-Android) - BiglyBT for Android, torrent client and remote control app
-
-*   [eritpchy/aliyundrive-webdav](https://github.com/eritpchy/aliyundrive-webdav) - 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现，支持安卓、Linux、树莓派、Docker、Windows、macOS部署， 并附带JAVA SDK支持二次开发
-
-*   [SuperMonster003/AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
-
-*   [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) -
-
-*   [MinaMichita/AntiAntiDefraud](https://github.com/MinaMichita/AntiAntiDefraud) - Stop uploading my installed app list! Miui!
-
-*   [guojiucheng/BBox](https://github.com/guojiucheng/BBox) - TVBox 简易修改 多源版本
-
-*   [XiaoRanLiu3119/TVBoxOS-Mobile](https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile) - TVBox手机版
-
 ## C\#
 
 *   [Round-Studio/BedrockBoot](https://github.com/Round-Studio/BedrockBoot) - 一个为 Windows 开发的基岩版启动器
@@ -564,7 +569,7 @@
 
 *   [zjx20/xsync](https://github.com/zjx20/xsync) - 基于rsync的文件夹同步工具 (local => remote)
 
-*   [wd210010/only\_for\_happly](https://github.com/wd210010/only_for_happly) - manus自动写脚本 注册链接 https://manus.im/invitation/V9OIRPDYST3RAF8 百度贴吧签到★小米运动刷步数★恩山签到★雨云签到白嫖服务器★小茅预约★天翼云盘签到★阿里云盘签到★富贵论坛签到★一点万向签到打卡★什么值得买达人和关键词取消关注★STLXZ签到★PT站签到★帆软签到+摇摇乐★千图网签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★ddnsto自动续费七天★爱奇艺签到刷时长★双色球预测（娱乐）
+*   [wd210010/only\_for\_happly](https://github.com/wd210010/only_for_happly) - manus自动写脚本 注册链接 https://manus.im/invitation/V9OIRPDYST3RAF8  一元机场 http://suo.im/gxn1a 百度贴吧签到★小米运动刷步数★恩山签到★雨云签到白嫖服务器★小茅预约★天翼云盘签到★阿里云盘签到★富贵论坛签到★一点万向签到打卡★什么值得买达人和关键词取消关注★STLXZ签到★PT站签到★帆软签到+摇摇乐★千图网签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★ddnsto自动续费七天★爱奇艺签到刷时长★双色球预测（娱乐）
 
 *   [clover1420/AutoSign](https://github.com/clover1420/AutoSign) - 小黑盒，好游快爆，miui历史版本,天翼云盘自动签到脚本
 
@@ -722,8 +727,6 @@
 
 *   [coolight7/musicxx](https://github.com/coolight7/musicxx) - 拟声 音视频播放器
 
-*   [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
-
 ## Go
 
 *   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
@@ -738,7 +741,7 @@
 
 *   [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
 
-*   [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save Telegram files to multiple storage 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content.
+*   [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save any Telegram file, anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram.
 
 *   [LeoHaoVIP/AListLiteAndroid](https://github.com/LeoHaoVIP/AListLiteAndroid) - OpenList 即装即用 · 一款专为 Android 打造的 AList 安卓服务端 | 支持 Android 5.0
 
@@ -751,8 +754,6 @@
 *   [stfujnkk/pzrp](https://github.com/stfujnkk/pzrp) - A lightweight reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 *   [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
-
-*   [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 
 ## Dart
 
@@ -875,7 +876,3 @@
 ## Makefile
 
 *   [zhimin-dev/iptv-checker](https://github.com/zhimin-dev/iptv-checker) - IPTV checker tool for Docker && Desktop && CMD, check your playlist is available
-
-## Lua
-
-*   [the-essence-of-life/sparenvim](https://github.com/the-essence-of-life/sparenvim) - A full-freedom configruation
