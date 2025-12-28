@@ -10,19 +10,19 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
+*   [Shell](#shell)
+*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [Python](#python)
 *   [Go](#go)
-*   [Shell](#shell)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Stylus](#stylus)
 *   [Dart](#dart)
-*   [TypeScript](#typescript)
 *   [PowerShell](#powershell)
-*   [Rust](#rust)
 *   [C#](#c)
 *   [Vue](#vue)
 *   [PHP](#php)
@@ -37,6 +37,168 @@
 *   [Lua](#lua)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Smali](#smali)
+
+## TypeScript
+
+*   [jinzhongjia/decky-qqmusic](https://github.com/jinzhongjia/decky-qqmusic) - Steam decky plugin with qqmusic
+
+*   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
+
+*   [wood3n/biu](https://github.com/wood3n/biu) - Bilibili音乐播放器
+
+*   [ximu3/vnite](https://github.com/ximu3/vnite) - A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports.
+
+*   [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
+
+*   [Kumneger0/TGCloud](https://github.com/Kumneger0/TGCloud) - TGCloud is a secure and reliable cloud storage solution built on top of Telegram's infrastructure
+
+*   [sshrshnv/tgstorage](https://github.com/sshrshnv/tgstorage) - Advanced "Saved Messages" of the Telegram. Store your notes, checklists, links, photos and any documents in Telegram Cloud.
+
+*   [JavanShen/beagle](https://github.com/JavanShen/beagle) - Music player that supports WebDAV
+
+*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+
+*   [appdev/siyuan-unlock](https://github.com/appdev/siyuan-unlock) - 思源笔记免登录版本；可以不登录使用同步功能
+
+*   [Lingyan000/hiker-nice](https://github.com/Lingyan000/hiker-nice) - 海阔视界的工具包，方便在 Node.js 开发海阔视界规则
+
+*   [99percentpeople/weblink](https://github.com/99percentpeople/weblink) - A browser-based P2P chat and file transfer app with integrated screen sharing, powered by WebRTC.
+
+*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
+
+*   [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.
+
+*   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
+
+*   [orion-lib/OrionTV](https://github.com/orion-lib/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
+
+*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
+
+*   [XIAYM-gh/Kiwi-Release-Backup](https://github.com/XIAYM-gh/Kiwi-Release-Backup) - A backup repository of Kiwi Browser's releases, which is automatically updated.
+
+*   [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
+
+*   [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - A browser based Pokémon fangame heavily inspired by the roguelite genre.
+
+*   [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+*   [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) - 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities
+
+*   [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid) - Link Android and PC easily! 全能手机连接助手！
+
+*   [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Screen translator  支持Windows Linux macOS
+
+*   [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
+
+*   [maotoumao/MusicFreePlugins](https://github.com/maotoumao/MusicFreePlugins) - MusicFree播放插件
+
+*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+
+*   [ReviveUnblockNCMInstaller/RevivedUnblockInstaller](https://github.com/ReviveUnblockNCMInstaller/RevivedUnblockInstaller) - BetterNCM 插件 · 一键安装解灰
+
+*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+
+*   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+*   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
+
+*   [Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值.
+
+*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
+
+*   [chen310/cloudmusic-vscode](https://github.com/chen310/cloudmusic-vscode) - Netease Music for VS Code / 网易云音乐vscode扩展
+
+*   [liyupi/mianshiya](https://github.com/liyupi/mianshiya) - 持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2025年最新Java面试题、前端面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题等几千道高频程序员求职必备八股文。面试刷题就选面试鸭 💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮
+
+*   [zero205/JD\_tencent\_scf](https://github.com/zero205/JD_tencent_scf) - 自用脚本，随缘更新
+
+*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
+
+## Shell
+
+*   [ukriu/HyperUnlocked](https://github.com/ukriu/HyperUnlocked) - A Magisk/KernelSU/APatch module to unlock high-end features on all Xiaomi devices.
+
+*   [backslashxx/mountify](https://github.com/backslashxx/mountify) - Globally mounted modules via OverlayFS.
+
+*   [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
+
+*   [jark006/freezeitRelease](https://github.com/jark006/freezeitRelease) - 冻它模块发布页：适用于Android系统的基于Magisk和Xpsoed框架的墓碑机制模块
+
+*   [Lxapk/OpenList-Magisk](https://github.com/Lxapk/OpenList-Magisk) - 本模块的OpenList二进制文件制作为KernelSU模块
+
+*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
+
+*   [pkczc/OpenList-Magisk\_123](https://github.com/pkczc/OpenList-Magisk_123) - 修改oplist源，实现123网盘无限制下载
+
+*   [Alien-Et/OpenList-Magisk](https://github.com/Alien-Et/OpenList-Magisk) - OpenList Magisk(兼容KernelSU) 模块将 OpenList 文件服务器集成到 Android 系统中，通过 Magisk/KernelSU 以系统化方式运行，支持 ARM 和 ARM64 架构。
+
+*   [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
+
+*   [fishforks/tgimg](https://github.com/fishforks/tgimg) - 适用于claw cloud部署的tgsearch、tgsou镜像
+
+*   [YangguangZhou/Monet-All](https://github.com/YangguangZhou/Monet-All) - 莫奈取色整合的Magisk模块，可通过音量键选择是否安装对应应用的取色模块
+
+*   [RuriOSS/asl](https://github.com/RuriOSS/asl) - Android Subsystem for GNU/Linux (magisk/ksu/Apatch module)
+
+*   [nakixii/Magisk\_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) - 由于近期出现太多无效（不附带任何数据）适配申请，暂时停止接收任何申请。
+
+*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
+
+*   [RimuruW/Aria2-Termux](https://github.com/RimuruW/Aria2-Termux) - 面向 Android 的 Aria2 一键安装管理脚本
+
+*   [Chuhe2399/Clash.Mihomo](https://github.com/Chuhe2399/Clash.Mihomo) - Clash.Mihomo 模块，支持KernelSU、APatch、Magisk
+
+*   [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux.
+
+*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+
+*   [Peooop/alist-magisk](https://github.com/Peooop/alist-magisk) - Alist的magisk模块
+
+*   [Aurora-Nasa-1/ARMIAS](https://github.com/Aurora-Nasa-1/ARMIAS) - Auto modules and patch installer framework
+
+*   [lingeringsound/10007\_auto](https://github.com/lingeringsound/10007_auto) - ZH: 自动更新去广告的hosts ，En: Automatically update ad hosts
+
+*   [gebangfeng/docker-mirror](https://github.com/gebangfeng/docker-mirror) - 整理各大docker,容器镜像仓库的国内镜像源
+
+*   [symbuzzer/systemless-hosts-KernelSU-module](https://github.com/symbuzzer/systemless-hosts-KernelSU-module) - Required module to use applications such as AdAway on KernelSU and APatch
+
+*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
+
+*   [ungoogled-software/ungoogled-chromium-android](https://github.com/ungoogled-software/ungoogled-chromium-android) - Android build for ungoogled-chromium
+
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+
+*   [KazamataNeriQwQ/Neribox](https://github.com/KazamataNeriQwQ/Neribox) - A magisk module with AList | 一个围绕AList构建的Magisk模块
+
+*   [iranee/qnap-alist-webdav](https://github.com/iranee/qnap-alist-webdav) - 一款挂载多个云盘的工具
+
+*   [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) - Termux Theme Installer , Zsh Shell , Easy to use .
+
+*   [YAWAsau/backup\_script](https://github.com/YAWAsau/backup_script) - 備份數據腳本
+
+## Rust
+
+*   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
+
+*   [ldoubil/astral](https://github.com/ldoubil/astral) - 去中心化组网工具
+
+*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+
+*   [Dominux/Pentaract](https://github.com/Dominux/Pentaract) - Unlimited file cloud storage based on using Telegram API
+
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [Zxilly/OnedriveHostsGenerator](https://github.com/Zxilly/OnedriveHostsGenerator) - A Page include Onenote for Windows' hosts
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## miscellaneous
 
@@ -166,8 +328,6 @@
 
 *   [kiv2018/jd](https://github.com/kiv2018/jd) - 京东网页抢券
 
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
 ## Kotlin
 
 *   [ChaoMixian/vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
@@ -275,8 +435,6 @@
 *   [LiuYiGL/MiFreeFormX](https://github.com/LiuYiGL/MiFreeFormX) - 在Miui14及以上系统实现Flyme小窗的操作逻辑
 
 *   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-
-*   [Moriafly/DsoMusic](https://github.com/Moriafly/DsoMusic) - Kotlin 开发的美观安卓音乐软件，音源：网易云音乐、QQ 音乐、酷我音乐、Bilibili
 
 ## JavaScript
 
@@ -540,7 +698,7 @@
 
 *   [zjx20/xsync](https://github.com/zjx20/xsync) - 基于rsync的文件夹同步工具 (local => remote)
 
-*   [wd210010/only\_for\_happly](https://github.com/wd210010/only_for_happly) - manus自动写脚本 注册链接 https://manus.im/invitation/V9OIRPDYST3RAF8  一元机场 http://suo.im/gxn1a 百度贴吧签到★小米运动刷步数★恩山签到★雨云签到白嫖服务器★小茅预约★天翼云盘签到★阿里云盘签到★富贵论坛签到★一点万向签到打卡★什么值得买达人和关键词取消关注★STLXZ签到★PT站签到★帆软签到+摇摇乐★千图网签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★ddnsto自动续费七天★爱奇艺签到刷时长★双色球预测（娱乐）
+*   [wd210010/only\_for\_happly](https://github.com/wd210010/only_for_happly) - manus自动写脚本 注册链接 https://manus.im/invitation/V9OIRPDYST3RAF8  一元机场 http://b.u9v.cn/dVMss 百度贴吧签到★小米运动刷步数★恩山签到★雨云签到白嫖服务器★小茅预约★天翼云盘签到★阿里云盘签到★富贵论坛签到★一点万向签到打卡★品赞代理签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★ddnsto自动续费七天★爱奇艺签到刷时长★双色球预测（娱乐）
 
 *   [clover1420/AutoSign](https://github.com/clover1420/AutoSign) - 小黑盒，好游快爆，miui历史版本,天翼云盘自动签到脚本
 
@@ -602,15 +760,13 @@
 
 *   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
-*   [zhengfan2014/xbmc-kodi-private-china-addons](https://github.com/zhengfan2014/xbmc-kodi-private-china-addons) - 个人开发的xbmc/kodi 插件 欢迎各位大神提意见。
-
 ## Go
 
 *   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 
 *   [linkease/docker-for-android](https://github.com/linkease/docker-for-android) - 为 Android 底层提供原生的 Docker 能力。Android 系统必须支持 adb root 才行。
 
-*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
+*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
 
 *   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
@@ -637,66 +793,6 @@
 *   [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
 
 *   [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-
-## Shell
-
-*   [backslashxx/mountify](https://github.com/backslashxx/mountify) - Globally mounted modules via OverlayFS.
-
-*   [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
-
-*   [jark006/freezeitRelease](https://github.com/jark006/freezeitRelease) - 冻它模块发布页：适用于Android系统的基于Magisk和Xpsoed框架的墓碑机制模块
-
-*   [Lxapk/OpenList-Magisk](https://github.com/Lxapk/OpenList-Magisk) - 本模块的OpenList二进制文件制作为KernelSU模块
-
-*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
-
-*   [pkczc/OpenList-Magisk\_123](https://github.com/pkczc/OpenList-Magisk_123) - 修改oplist源，实现123网盘无限制下载
-
-*   [Alien-Et/OpenList-Magisk](https://github.com/Alien-Et/OpenList-Magisk) - OpenList Magisk(兼容KernelSU) 模块将 OpenList 文件服务器集成到 Android 系统中，通过 Magisk/KernelSU 以系统化方式运行，支持 ARM 和 ARM64 架构。
-
-*   [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
-
-*   [fishforks/tgimg](https://github.com/fishforks/tgimg) - 适用于claw cloud部署的tgsearch、tgsou镜像
-
-*   [YangguangZhou/Monet-All](https://github.com/YangguangZhou/Monet-All) - 莫奈取色整合的Magisk模块，可通过音量键选择是否安装对应应用的取色模块
-
-*   [RuriOSS/asl](https://github.com/RuriOSS/asl) - Android Subsystem for GNU/Linux (magisk/ksu/Apatch module)
-
-*   [nakixii/Magisk\_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) - 由于近期出现太多无效（不附带任何数据）适配申请，暂时停止接收任何申请。
-
-*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
-
-*   [RimuruW/Aria2-Termux](https://github.com/RimuruW/Aria2-Termux) - 面向 Android 的 Aria2 一键安装管理脚本
-
-*   [Chuhe2399/Clash.Mihomo](https://github.com/Chuhe2399/Clash.Mihomo) - Clash.Mihomo 模块，支持KernelSU、APatch、Magisk
-
-*   [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux.
-
-*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-
-*   [Peooop/alist-magisk](https://github.com/Peooop/alist-magisk) - Alist的magisk模块
-
-*   [Aurora-Nasa-1/ARMIAS](https://github.com/Aurora-Nasa-1/ARMIAS) - Auto modules and patch installer framework
-
-*   [lingeringsound/10007\_auto](https://github.com/lingeringsound/10007_auto) - ZH: 自动更新去广告的hosts ，En: Automatically update ad hosts
-
-*   [gebangfeng/docker-mirror](https://github.com/gebangfeng/docker-mirror) - 整理各大docker,容器镜像仓库的国内镜像源
-
-*   [symbuzzer/systemless-hosts-KernelSU-module](https://github.com/symbuzzer/systemless-hosts-KernelSU-module) - Required module to use applications such as AdAway on KernelSU and APatch
-
-*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
-
-*   [ungoogled-software/ungoogled-chromium-android](https://github.com/ungoogled-software/ungoogled-chromium-android) - Android build for ungoogled-chromium
-
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-*   [KazamataNeriQwQ/Neribox](https://github.com/KazamataNeriQwQ/Neribox) - A magisk module with AList | 一个围绕AList构建的Magisk模块
-
-*   [iranee/qnap-alist-webdav](https://github.com/iranee/qnap-alist-webdav) - 一款挂载多个云盘的工具
-
-*   [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) - Termux Theme Installer , Zsh Shell , Easy to use .
-
-*   [YAWAsau/backup\_script](https://github.com/YAWAsau/backup_script) - 備份數據腳本
 
 ## Visual Basic .NET
 
@@ -764,86 +860,6 @@
 
 *   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
-## TypeScript
-
-*   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
-
-*   [wood3n/biu](https://github.com/wood3n/biu) - Bilibili音乐播放器
-
-*   [ximu3/vnite](https://github.com/ximu3/vnite) - A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports.
-
-*   [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
-
-*   [Kumneger0/TGCloud](https://github.com/Kumneger0/TGCloud) - TGCloud is a secure and reliable cloud storage solution built on top of Telegram's infrastructure
-
-*   [sshrshnv/tgstorage](https://github.com/sshrshnv/tgstorage) - Advanced "Saved Messages" of the Telegram. Store your notes, checklists, links, photos and any documents in Telegram Cloud.
-
-*   [JavanShen/beagle](https://github.com/JavanShen/beagle) - Music player that supports WebDAV
-
-*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
-
-*   [appdev/siyuan-unlock](https://github.com/appdev/siyuan-unlock) - 思源笔记免登录版本；可以不登录使用同步功能
-
-*   [Lingyan000/hiker-nice](https://github.com/Lingyan000/hiker-nice) - 海阔视界的工具包，方便在 Node.js 开发海阔视界规则
-
-*   [99percentpeople/weblink](https://github.com/99percentpeople/weblink) - A browser-based P2P chat and file transfer app with integrated screen sharing, powered by WebRTC.
-
-*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
-
-*   [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.
-
-*   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
-
-*   [orion-lib/OrionTV](https://github.com/orion-lib/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
-
-*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
-
-*   [XIAYM-gh/Kiwi-Release-Backup](https://github.com/XIAYM-gh/Kiwi-Release-Backup) - A backup repository of Kiwi Browser's releases, which is automatically updated.
-
-*   [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
-
-*   [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - A browser based Pokémon fangame heavily inspired by the roguelite genre.
-
-*   [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
-*   [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) - 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities
-
-*   [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid) - Link Android and PC easily! 全能手机连接助手！
-
-*   [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Screen translator  支持Windows Linux macOS
-
-*   [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
-
-*   [maotoumao/MusicFreePlugins](https://github.com/maotoumao/MusicFreePlugins) - MusicFree播放插件
-
-*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
-
-*   [ReviveUnblockNCMInstaller/RevivedUnblockInstaller](https://github.com/ReviveUnblockNCMInstaller/RevivedUnblockInstaller) - BetterNCM 插件 · 一键安装解灰
-
-*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-*   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-
-*   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
-
-*   [Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值.
-
-*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
-
-*   [chen310/cloudmusic-vscode](https://github.com/chen310/cloudmusic-vscode) - Netease Music for VS Code / 网易云音乐vscode扩展
-
-*   [liyupi/mianshiya](https://github.com/liyupi/mianshiya) - 持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2025年最新Java面试题、前端面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题等几千道高频程序员求职必备八股文。面试刷题就选面试鸭 💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮
-
-*   [zero205/JD\_tencent\_scf](https://github.com/zero205/JD_tencent_scf) - 自用脚本，随缘更新
-
-*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
-
 ## PowerShell
 
 *   [lvyuemeng/scoop-cn](https://github.com/lvyuemeng/scoop-cn) - The set of buckets of scoop which is suitable for those behind great walls. 中国用户可方便使用的scoop buckets库。
@@ -859,22 +875,6 @@
 *   [Scoopforge/Extras-CN](https://github.com/Scoopforge/Extras-CN) - 🍨 专注于服务国人的 Scoop 扩展库 🍨
 
 *   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-
-## Rust
-
-*   [ldoubil/astral](https://github.com/ldoubil/astral) - 去中心化组网工具
-
-*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-
-*   [Dominux/Pentaract](https://github.com/Dominux/Pentaract) - Unlimited file cloud storage based on using Telegram API
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-*   [Zxilly/OnedriveHostsGenerator](https://github.com/Zxilly/OnedriveHostsGenerator) - A Page include Onenote for Windows' hosts
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## C\#
 
