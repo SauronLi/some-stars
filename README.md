@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Vue](#vue)
 *   [Dart](#dart)
 *   [Java](#java)
@@ -24,9 +25,8 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Stylus](#stylus)
 *   [PowerShell](#powershell)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [PHP](#php)
-*   [C++](#c-1)
 *   [C](#c-2)
 *   [Batchfile](#batchfile)
 *   [CSS](#css)
@@ -35,6 +35,40 @@
 *   [Makefile](#makefile)
 *   [Lua](#lua)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## C++
+
+*   [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
+
+*   [fxliang/weasel](https://github.com/fxliang/weasel) - 【小狼毫】Rime for Windows
+
+*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
+
+*   [JingMatrix/NeoZygisk](https://github.com/JingMatrix/NeoZygisk) - Zygote injection with ptrace
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
+
+*   [gonzazoid/Ultimatum](https://github.com/gonzazoid/Ultimatum) - Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more
+
+*   [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器
+
+*   [alexhua/Aria2-Manager](https://github.com/alexhua/Aria2-Manager) - A useful tool to run Aria2 in the background easily
+
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+
+*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
+
+*   [CrackerCat/ZygiskNextForAPatch](https://github.com/CrackerCat/ZygiskNextForAPatch) - https://github.com/Yervant7/ZygiskNext
+
+*   [coolight7/musicxx](https://github.com/coolight7/musicxx) - 拟声 音视频播放器
+
+*   [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
+
+*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
+
+*   [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 
 ## Vue
 
@@ -67,8 +101,6 @@
 *   [Groupguanfang/TVYesPlayMusic](https://github.com/Groupguanfang/TVYesPlayMusic) - YesPlayMusic 网易云TV电视版。Bug还比较多，慢慢修~
 
 *   [hql7/wl-micro-frontends](https://github.com/hql7/wl-micro-frontends) - Micro front end practical project tutorial. 微前端项目实战vue项目。基于vue3.0\&qiankun2.0进阶版：https://github.com/wl-ui/wl-mfe
-
-*   [Yinbe/TabHome](https://github.com/Yinbe/TabHome) - 处理Chrome"其他文件夹"的书签。有存储"临时"书签，分类保存书签，快捷键操作，自定义设置，快捷查看书签，支持搜索栏直接搜索书签，高效管理书签等功能。查看当前网站的浏览历史，管理已安装扩展插件。
 
 ## Dart
 
@@ -128,7 +160,7 @@
 
 ## Java
 
-*   [FlutterGenerator/termux-monet](https://github.com/FlutterGenerator/termux-monet) - Termux Monet - a (unmaintained) terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
+*   [FlutterGenerator/termux-monet](https://github.com/FlutterGenerator/termux-monet) - Termux Monet - a (unmaintained) terminal emulator application for Android 6+ OS extendible by variety of packages, with Monet support and experimental features.
 
 *   [yangFenTuoZi/Runner](https://github.com/yangFenTuoZi/Runner) -
 
@@ -258,7 +290,7 @@
 
 *   [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and forum of FeedMe
 
-*   [gstory0404/Cinetry](https://github.com/gstory0404/Cinetry) - Cinetry音视频播放器，Jellyfin、Emby、CMS、IPTV、Webdav、Alist、Openlist、Subsonic、Navidrom、GD音乐台、audiobookshelf数据导入，服务器一键切换，多服务器数据聚合搜索，支持Andorid、iOS、Windows、macOS、Linux、TV，不扫库，纯本地客户端
+*   [gstory0404/Cinetry](https://github.com/gstory0404/Cinetry) - Cinetry音视频播放器，Jellyfin、Emby、CMS、IPTV、Webdav、Alist、Openlist、Subsonic、Navidrom、GD音乐台、audiobookshelf、道理鱼数据导入，服务器一键切换，多服务器数据聚合搜索，支持Andorid、iOS、Windows、macOS、Linux、TV，不扫库，纯本地客户端
 
 *   [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.
 
@@ -370,8 +402,6 @@
 
 *   [Kumneger0/TGCloud](https://github.com/Kumneger0/TGCloud) - TGCloud is a secure and reliable cloud storage solution built on top of Telegram's infrastructure
 
-*   [sshrshnv/tgstorage](https://github.com/sshrshnv/tgstorage) - Advanced "Saved Messages" of the Telegram. Store your notes, checklists, links, photos and any documents in Telegram Cloud.
-
 *   [JavanShen/beagle](https://github.com/JavanShen/beagle) - Music player that supports WebDAV
 
 *   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
@@ -466,7 +496,7 @@
 
 *   [RuriOSS/asl](https://github.com/RuriOSS/asl) - Android Subsystem for GNU/Linux (magisk/ksu/Apatch module)
 
-*   [nakixii/Magisk\_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) - 由于近期出现太多无效（不附带任何数据）适配申请，暂时停止接收任何申请。
+*   [nakixii/Magisk\_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) -
 
 *   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
 
@@ -496,7 +526,7 @@
 
 *   [KazamataNeriQwQ/Neribox](https://github.com/KazamataNeriQwQ/Neribox) - A magisk module with AList | 一个围绕AList构建的Magisk模块
 
-*   [iranee/qnap-alist-webdav](https://github.com/iranee/qnap-alist-webdav) - 一款挂载多个云盘的工具
+*   [iranee/qnap-openlist-webdav](https://github.com/iranee/qnap-openlist-webdav) - 一款挂载多个云盘的工具
 
 *   [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) - An easy-to-use Termux theme installer featuring Zsh shell setup and customization.
 
@@ -746,8 +776,6 @@
 
 *   [yaonyan/sosf](https://github.com/yaonyan/sosf) - 或许是国内访问最快的 OneDrive 免服务器图床程序，专为世纪互联用户打造
 
-*   [lukesyy/jd\_yun](https://github.com/lukesyy/jd_yun) - JD-----云函数&青龙
-
 ## Python
 
 *   [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
@@ -961,34 +989,6 @@
 *   [owncloud/music](https://github.com/owncloud/music) - :notes: Music app for ownCloud
 
 *   [f4team-cn/f4pan](https://github.com/f4team-cn/f4pan) - A website to get netdisk download link for users who cannot install the client
-
-## C++
-
-*   [JingMatrix/NeoZygisk](https://github.com/JingMatrix/NeoZygisk) - Zygote injection with ptrace
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
-
-*   [gonzazoid/Ultimatum](https://github.com/gonzazoid/Ultimatum) - Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more
-
-*   [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器
-
-*   [alexhua/Aria2-Manager](https://github.com/alexhua/Aria2-Manager) - A useful tool to run Aria2 in the background easily
-
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
-
-*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-
-*   [CrackerCat/ZygiskNextForAPatch](https://github.com/CrackerCat/ZygiskNextForAPatch) - https://github.com/Yervant7/ZygiskNext
-
-*   [coolight7/musicxx](https://github.com/coolight7/musicxx) - 拟声 音视频播放器
-
-*   [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
-
-*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
-
-*   [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 
 ## C
 
